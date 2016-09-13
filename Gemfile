@@ -22,6 +22,8 @@ gem 'jquery-rails'
 
 gem 'railties'
 
+gem 'devise'
+
 gem "wysiwyg-rails"
 
 gem 'simple_form'
