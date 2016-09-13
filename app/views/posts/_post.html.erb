@@ -47,8 +47,11 @@ on index.html.erb will be the call
 		<%=post.body.truncate(150, separator: ' ', omission:' ')%>
     <%= link_to '...more', post %><br><br>
 
-    <%= link_to 'Edit', edit_post_path(post), :class=>"btn btn-success"%><br><br>
+		<% if user_signed_in? %>
+    <%= link_to 'Edit', edit_post_path(post), :class=>"btn btn-success"%>
+		<br><br>
     <%= link_to 'Delete', post, method: :delete, data: { confirm: 'Are you sure?'}, :class=>"btn btn-danger" %>
+		<% end %>
 	</div>
 </div>
 <!--END PEN CODE-->
