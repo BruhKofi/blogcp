@@ -1,0 +1,54 @@
+<%
+=begin %>
+partials. Instead of a loop for (in this case post), create a file naming it as _filename-html.erb
+
+<%= render partial: @posts %>
+on index.html.erb will be the call
+<%
+=end %>
+<!--
+
+
+<div id="newcolor" class="col-xs-6 colborder" >
+    <h1 class="text-right"><%=  link_to post.titile, post %></h1>
+    <hr>
+
+<%= image_tag post.picture, :class => "img-responsive img-circle"%>
+
+    <p class="text-left">
+        <%=post.body.truncate(150, separator: ' ', omission:' ...')%>
+        <%= link_to 'more', post %></p>
+    <%= link_to 'Edit', edit_post_path(post), :class=>"btn btn-success"%>
+    <%= link_to 'Delete', post, method: :delete, data: { confirm: 'Are you sure?'}, :class=>"btn btn-danger" %>
+</div>  -->
+
+
+
+
+
+<!--PEN CODE-->
+<div class="blog-card">
+	<div class="photo"><%= image_tag post.picture, :class => "img-responsive"%></div>
+	<ul class="details">
+		<li class="author"><a href="#">Victor</a></li>
+		<li class="date">Aug. 28, 2016</li>
+		<li class="tags">
+			<ul>
+				<li><a href="#">Learn</a></li>
+				<li><a href="#">Code</a></li>
+				<li><a href="#">HTML</a></li>
+				<li><a href="#">CSS</a></li>
+			</ul>
+		</li>
+	</ul>
+	<div class="description">
+		<h1><%=  link_to post.titile, post %></h1>
+		<h2></h2>
+		<%=post.body.truncate(150, separator: ' ', omission:' ')%>
+    <%= link_to '...more', post %><br><br>
+
+    <%= link_to 'Edit', edit_post_path(post), :class=>"btn btn-success"%><br><br>
+    <%= link_to 'Delete', post, method: :delete, data: { confirm: 'Are you sure?'}, :class=>"btn btn-danger" %>
+	</div>
+</div>
+<!--END PEN CODE-->

@@ -1,0 +1,500 @@
+   19  ls
+   20  cd Documents/
+   21  ls
+   22  cd ROR/
+   23  ls
+   24  cd Portfolio/
+   25  ls
+   26  rails new my_site
+   27  ls
+   28  cd ..
+   29  cd ..
+   30  ls
+   31  cd ..
+   32  ls
+   33  cd db
+   34  ls
+   35  cd ..
+   36  rm -r db
+   37  ls
+   38  gemfile
+   39  mkdir Lab
+   40  ls Lab
+   41  cd Lab
+   42  rails new Portfolio
+   43  cd ..
+   44  ls
+   45  rm -r Lab
+   46  ls
+   47  rvm -v
+   48  rvm update
+   49  rvm get head
+   50  rvm -v
+   51  rvm reload
+   52  rvm -v
+   53  rvm get stable
+   54  rvm
+   55  rvm --v
+   56  rvm -v
+   57  ls
+   58  cd lib
+   59  ls
+   60  cd ..
+   61  ls
+   62  cd Documents/
+   63  ls
+   64  cd ROR/
+   65  ls
+   66  cd Portfolio/
+   67  ls
+   68  rails new my_site
+   69  cd ..
+   70  cd ..
+   71  cd ..
+   72  ls
+   73  ls -l
+   74  cd projects/
+   75  ls
+   76  ls..
+   77  cd ..
+   78  rm -r  config
+   79  rm -r  Gemfile
+   80  rm -r  Gemfile.lock 
+   81  rm -r  README.rdoc 
+   82  rm -r  Rakefile 
+   83  ls
+   84  rm -r  config.ru 
+   85  cs vendor/
+   86  cd vendor/
+   87  ls
+   88  cd assets/
+   89  ls
+   90  cd ..
+   91  cd ..
+   92  ls
+   93  rm -r vendor/
+   94  rm -r app/
+   95  ls
+   96  rm -r bin/
+   97  ls
+   98  cd lib
+   99  ls
+  100  cd ..
+  101  rm -r lib/
+  102  rm -r log/
+  103  ls
+  104  ls Samsung/
+  105  mkdir Lab
+  106  rails new my_site
+  107  ls
+  108  rm -r Lab/
+  109  rm -r projects/
+  110  ls
+  111  cd my_site/
+  112  ls
+  113  cd ..
+  114  rm -r my_site/
+  115  ls
+  116  cd Documents/
+  117  ls
+  118  cd ROR
+  119  ls
+  120  cd
+  121  ls
+  122  cd Documents/
+  123  ls
+  124  cd ROR
+  125  ls
+  126  cd Portfolio/
+  127  ls
+  128  rails new MySite
+  129  ls
+  130  cd MySite/
+  131  ls
+  132  rails server
+  133  rails server
+  134  ls
+  135  cd MySite
+  136  cd ..
+  137  ls
+  138  rm -r MySite/
+  139  ls
+  140  bundle install
+  141  cs
+  142  cd ..
+  143  ls
+  144  rm -r Portfolio/
+  145  rails new portfolio
+  146  bundle exec spring binstub --all
+  147  bundle show
+  148  gem install
+  149  ls
+  150  cd portfolio/
+  151  ls
+  152  bundle exec spring binstub --all
+  153  bundle show
+  154  bundle install
+  155  ls
+  156  rails server
+  157  cd ..
+  158  ls
+  159  rm -r Portfolio/
+  160  ls
+  161  rails new myPortfolio
+  162  cd myPortfolio/
+  163  bundle install
+  164  rails s
+  165  rails generate controller StaticPages home about
+  166  ls
+  167  rails server
+  168  cd ..
+  169  cd ..
+  170  cd Project/
+  171  ls
+  172  cs HelloWorld/
+  173  cd  HelloWorld/
+  174  ls
+  175  rails server
+  176  ls
+  177  cd Documents/
+  178  ls
+  179  cd ROR
+  180  ls
+  181  cd myPortfolio/
+  182  ls
+  183  rails server
+  184  rails server
+  185  cd .
+  186  cd ..
+  187  cd ..
+  188  ls
+  189  cd Documents/
+  190  ls
+  191  cd ROR/
+  192  rails new mysite
+  193  run  bundle exec spring binstub --all
+  194  bundle exec spring binstub --all
+  195  ls
+  196  cd mysite/
+  197  ls
+  198  rails server
+  199  rails generate controller welcome index
+  200  rails server
+  201  rails server
+  202  ls
+  203  rails server
+  204  ls
+  205  rails server
+  206  git init
+  207  git add
+  208  git add .
+  209  commit -m "Initial commit"
+  210  git commit -m "Initial commit"
+  211  push -u origin master
+  212  git push -u origin master
+  213  git push -u origin master
+  214  git push -u origin master
+  215  git init
+  216  git add .
+  217  git commit -m "Initial commit"
+  218  git push -u origin master
+  219  echo "# mysite" >> README.md
+  220  git init
+  221  git add README.md
+  222  git commit -m "first commit"
+  223  git remote add origin https://github.com/Tynnee/mysite.git
+  224  git push -u origin master
+  225  git merge
+  226  git commit -m "2nd"
+  227  git push
+  228  git push
+  229  cd
+  230  npm install jquery
+  231  ls
+  232  cd Documents/
+  233  cd ROR
+  234  cd
+  235  ls
+  236  ls
+  237  cd Documents/
+  238  ls
+  239  cd ROR
+  240  ls
+  241  cd mysite
+  242  rails server
+  243  ls
+  244  cd Documents/
+  245  ls
+  246  cd ROR/
+  247  ls
+  248  cd mysite/
+  249  ls
+  250  rails server
+  251  ls
+  252  rail server
+  253  rails server
+  254  git push -u origin master
+  255  git init
+  256  git add
+  257  git push -u origin master
+  258  history |
+  259  history | grep git
+  260  git add .
+  261  git push -u origin master
+  262  git init
+  263  git add .
+  264  git push -u origin master
+  265  ls
+  266  rails server
+  267  ls
+  268  cd Documents/
+  269  ls
+  270  cd ROR/
+  271  ls
+  272  cd mysite
+  273  ls
+  274  git init
+  275  git add .
+  276  git push -u origin master
+  277  git add .
+  278  git push -u origin master
+  279  gít status
+  280  git status
+  281  git add . 
+  282  git commit -m "update to style"
+  283  git push -u origin master
+  284  bundle install
+  285  git add .
+  286  git commit -m "disable sqllite3"
+  287  git push -u origin master
+  288  heroku create
+  289  gem 'font-awesome-less'
+  290  gem font-awesome-less
+  291   font-awesome-less
+  292  bundle
+  293  rails server
+  294  rails server
+  295  rails server
+  296  cd Documents/
+  297  ls
+  298  cd ROR/
+  299  ls
+  300  cd mysite
+  301  ls
+  302  rails server
+  303  rails server
+  304  rails server
+  305  rails server
+  306  rails server
+  307  rails server
+  308  rails server
+  309  rails server
+  310  ls
+  311  cd ..
+  312  ls
+  313  cd ..
+  314  ls
+  315  cd RefugeesOnRails/
+  316  ls
+  317  ls
+  318  cd Week\ 
+  319  cd Week\ 03\ -\ Adding\ Tables\ and\ Forms/
+  320  ls
+  321  cd first app
+  322  cd myapp
+  323  rails server
+  324  list gems
+  325  listgems
+  326  history | grep git
+  327  history | grep git
+  328  rails server
+  329  cd ..
+  330  cd ..
+  331  ls
+  332  cd Week\ 04\ -\ Intro\ to\ Ruby/
+  333  ls
+  334  cd blog
+  335  ls
+  336  rails server
+  337  ls
+  338  cd ..
+  339  ls
+  340  cd ..
+  341  ls
+  342  cd Week\ 05\ -\ MVC\ and\ working\ with\ Rails/
+  343  ls
+  344  cd ..
+  345  ls
+  346  cd Week\ 07\ -\ Javascript/
+  347  ls
+  348  cd ..
+  349  ls
+  350  cd ..
+  351  cd ROR/
+  352  ls
+  353  cd mysite
+  354  rails server
+  355  ls
+  356  rails server
+  357  rails server
+  358  rails server
+  359  rails server
+  360  bower install animate.css --save
+  361  bower install animate.css
+  362  npm install -g bower
+  363  install -g bower
+  364  cd
+  365  echo $PATH
+  366  node
+  367  node -v
+  368  npm search
+  369  npm ls
+  370  npm install easyimage
+  371  install -g bower
+  372  npm install -g bower
+  373  brew install node
+  374  npm install -g bower
+  375  sudo npm install -g bower
+  376  bower@1.6.5 /usr/local/lib/node_modules/bower
+  377  bower init
+  378  npm install scrollmagic
+  379  bower init
+  380  bower install scrollmagic
+  381  gem install scrollmagicjs-rails
+  382  ls
+  383  cd Documents/
+  384  ls
+  385  cd ROR/
+  386  ls
+  387  cd mysite
+  388  ls
+  389  gem install scrollmagicjs-rails
+  390  bower install animate.css --save
+  391  bower init
+  392  bower init
+  393  bower install animate.css --save
+  394  bower install scrollmagic
+  395  list
+  396  gem list
+  397  git add .
+  398  git commit -m "installedd animate"
+  399  git push -u origin master
+  400  gem list
+  401  npm install scrollmagic
+  402  bower install scrollmagic
+  403   gem install scrollmagicjs-rails
+  404  git add .
+  405  git commit -m "parallax custom css"
+  406  git push -u master origin
+  407  git push -u origin master
+  408  gem list
+  409  bundle install
+  410  development:
+  411  adapter: postgresql
+  412  database: my_profile_development
+  413  pool: 5
+  414  timeout: 5000
+  415  test:
+  416  adapter: postgresql
+  417  database: my_profile_test
+  418  pool: 5
+  419  timeout: 5000
+  420  production:
+  421  adapter: postgresql
+  422  database: my_profile_production
+  423  pool: 5
+  424  timeout: 5000development:
+  425  adapter: postgresql
+  426  database: my_profile_development
+  427  pool: 5
+  428  timeout: 5000
+  429  test:
+  430  adapter: postgresql
+  431  database: my_profile_test
+  432  pool: 5
+  433  timeout: 5000
+  434  production:
+  435  adapter: postgresql
+  436  database: my_profile_production
+  437  pool: 5
+  438  timeout: 5
+  439  rake db:create
+  440  rake db:migrate
+  441  git add .
+  442  git commit -m "postgres fix"
+  443  git push -u origin master
+  444  sudo apt-get install postgresql postgresql-contrib libpq-dev
+  445  sudo apt-get install postgresql postgresql-contrib libpq-dev
+  446  sudo apt-get install postgresql postgresql-contrib libpq-dev
+  447  sudo apt-get install postgresql postgresql-contrib libpq-dev
+  448  apt-get install postgresql postgresql-contrib libpq-dev
+  449  ls
+  450  cd ..
+  451  ls
+  452  cd .
+  453  cd ..
+  454  ls
+  455  cd RefugeesOnRails/
+  456  ls
+  457  cd Week\ 04\ -\ Intro\ to\ Ruby/
+  458  ls
+  459  cd blog
+  460  ls
+  461  rails server
+  462  cd ..
+  463  cd..
+  464  cd .
+  465  cd ...
+  466  cd ..
+  467  cd ..
+  468  ls
+  469  cd ROR
+  470  ls 
+  471  postgres -v
+  472  postgres --version
+  473  ls
+  474  cd mysite/
+  475  bundle install
+  476  rake db:create
+  477  rake db:create
+  478  rake db:migrate
+  479  git add .
+  480  git commit -m "2nd postgres"
+  481  git push -u origin master
+  482  rails server
+  483  history
+  484  history |grep create
+  485  git add .
+  486  git commit -m "fixed"
+  487  git push -u origin master
+  488  cd ..
+  489  cd ..
+  490  cd ..
+  491  heroku login
+  492  ls
+  493  cd Documents/
+  494  ls
+  495  cd ROR/
+  496  ls
+  497  cd mysite
+  498  ls
+  499  heroku create
+  500  psql --version
+  501  cd ..
+  502  ls
+  503  cd ..
+  504  ls
+  505  cd ROR
+  506  ls
+  507  rails new myblog -d postgresql
+  508  rails generate scaffold post titile:string body:text
+  509  ls
+  510  cd myblog
+  511  rails generate scaffold post titile:string body:text
+  512  rails generate comment name:string body:text post:references
+  513  rails generate scaffold comment name:string body:text post:references
+  514  rails generate scaffold comment name:string body:text post:references
+  515  history
+  516  history 25
+  517  rake db:create
+  518  history > history_for_print-txt

@@ -1,0 +1,55 @@
+<div class="container">
+
+<%= form_for(post) do |f| %>
+  <% if post.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(post.errors.count, "error") %> prohibited this post from being saved:</h2>
+
+      <ul>
+      <% post.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+
+
+
+<form>
+
+
+  <div class="field">
+    <%= f.label :title %>
+    <%= f.text_field :titile, class: "form-control" %>
+  </div>
+
+  <div class="field">
+    <%= f.label :body %>
+    <%= f.text_area :body, class: "form-control", id: "editor" %>
+  </div>
+
+
+
+<div class="field">
+  <%= f.label :picture %>
+  <%= f.file_field :picture %>
+</div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+
+  <script>
+        $(function() {
+            $('#editor').froalaEditor()
+        });
+    </script>
+
+</form>
+
+
+
+<% end %>
+
+</div>

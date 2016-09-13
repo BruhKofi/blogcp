@@ -1,0 +1,16 @@
+<p id="notice"><%= notice %></p>
+
+
+
+<div class="container">
+  <div id="pagetitle" class="right-align">
+    <h2>
+    <u>Channels</u>
+    </h2>
+  </div>
+  <h1><%= @post.titile.upcase %></h1>
+  <%= image_tag @post.picture, :class => "img-responsive img-circle" %>
+  <%=@post.body %>
+  <%= link_to 'Edit', edit_post_path(@post), :class => "btn btn-success" %>
+  <%= link_to 'Back', posts_path, :class =>"btn btn-success" %>
+</div>

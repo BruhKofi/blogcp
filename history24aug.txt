@@ -1,0 +1,500 @@
+    1  rails new my_site
+    2  ls
+    3  rm -r Lab/
+    4  rm -r projects/
+    5  ls
+    6  cd my_site/
+    7  ls
+    8  cd ..
+    9  rm -r my_site/
+   10  ls
+   11  cd Documents/
+   12  ls
+   13  cd ROR
+   14  ls
+   15  cd
+   16  ls
+   17  cd Documents/
+   18  ls
+   19  cd ROR
+   20  ls
+   21  cd Portfolio/
+   22  ls
+   23  rails new MySite
+   24  ls
+   25  cd MySite/
+   26  ls
+   27  rails server
+   28  rails server
+   29  ls
+   30  cd MySite
+   31  cd ..
+   32  ls
+   33  rm -r MySite/
+   34  ls
+   35  bundle install
+   36  cs
+   37  cd ..
+   38  ls
+   39  rm -r Portfolio/
+   40  rails new portfolio
+   41  bundle exec spring binstub --all
+   42  bundle show
+   43  gem install
+   44  ls
+   45  cd portfolio/
+   46  ls
+   47  bundle exec spring binstub --all
+   48  bundle show
+   49  bundle install
+   50  ls
+   51  rails server
+   52  cd ..
+   53  ls
+   54  rm -r Portfolio/
+   55  ls
+   56  rails new myPortfolio
+   57  cd myPortfolio/
+   58  bundle install
+   59  rails s
+   60  rails generate controller StaticPages home about
+   61  ls
+   62  rails server
+   63  cd ..
+   64  cd ..
+   65  cd Project/
+   66  ls
+   67  cs HelloWorld/
+   68  cd  HelloWorld/
+   69  ls
+   70  rails server
+   71  ls
+   72  cd Documents/
+   73  ls
+   74  cd ROR
+   75  ls
+   76  cd myPortfolio/
+   77  ls
+   78  rails server
+   79  rails server
+   80  cd .
+   81  cd ..
+   82  cd ..
+   83  ls
+   84  cd Documents/
+   85  ls
+   86  cd ROR/
+   87  rails new mysite
+   88  run  bundle exec spring binstub --all
+   89  bundle exec spring binstub --all
+   90  ls
+   91  cd mysite/
+   92  ls
+   93  rails server
+   94  rails generate controller welcome index
+   95  rails server
+   96  rails server
+   97  ls
+   98  rails server
+   99  ls
+  100  rails server
+  101  git init
+  102  git add
+  103  git add .
+  104  commit -m "Initial commit"
+  105  git commit -m "Initial commit"
+  106  push -u origin master
+  107  git push -u origin master
+  108  git push -u origin master
+  109  git push -u origin master
+  110  git init
+  111  git add .
+  112  git commit -m "Initial commit"
+  113  git push -u origin master
+  114  echo "# mysite" >> README.md
+  115  git init
+  116  git add README.md
+  117  git commit -m "first commit"
+  118  git remote add origin https://github.com/Tynnee/mysite.git
+  119  git push -u origin master
+  120  git merge
+  121  git commit -m "2nd"
+  122  git push
+  123  git push
+  124  cd
+  125  npm install jquery
+  126  ls
+  127  cd Documents/
+  128  cd ROR
+  129  cd
+  130  ls
+  131  ls
+  132  cd Documents/
+  133  ls
+  134  cd ROR
+  135  ls
+  136  cd mysite
+  137  rails server
+  138  ls
+  139  cd Documents/
+  140  ls
+  141  cd ROR/
+  142  ls
+  143  cd mysite/
+  144  ls
+  145  rails server
+  146  ls
+  147  rail server
+  148  rails server
+  149  git push -u origin master
+  150  git init
+  151  git add
+  152  git push -u origin master
+  153  history |
+  154  history | grep git
+  155  git add .
+  156  git push -u origin master
+  157  git init
+  158  git add .
+  159  git push -u origin master
+  160  ls
+  161  rails server
+  162  ls
+  163  cd Documents/
+  164  ls
+  165  cd ROR/
+  166  ls
+  167  cd mysite
+  168  ls
+  169  git init
+  170  git add .
+  171  git push -u origin master
+  172  git add .
+  173  git push -u origin master
+  174  gít status
+  175  git status
+  176  git add . 
+  177  git commit -m "update to style"
+  178  git push -u origin master
+  179  bundle install
+  180  git add .
+  181  git commit -m "disable sqllite3"
+  182  git push -u origin master
+  183  heroku create
+  184  gem 'font-awesome-less'
+  185  gem font-awesome-less
+  186   font-awesome-less
+  187  bundle
+  188  rails server
+  189  rails server
+  190  rails server
+  191  cd Documents/
+  192  ls
+  193  cd ROR/
+  194  ls
+  195  cd mysite
+  196  ls
+  197  rails server
+  198  rails server
+  199  rails server
+  200  rails server
+  201  rails server
+  202  rails server
+  203  rails server
+  204  rails server
+  205  ls
+  206  cd ..
+  207  ls
+  208  cd ..
+  209  ls
+  210  cd RefugeesOnRails/
+  211  ls
+  212  ls
+  213  cd Week\ 
+  214  cd Week\ 03\ -\ Adding\ Tables\ and\ Forms/
+  215  ls
+  216  cd first app
+  217  cd myapp
+  218  rails server
+  219  list gems
+  220  listgems
+  221  history | grep git
+  222  history | grep git
+  223  rails server
+  224  cd ..
+  225  cd ..
+  226  ls
+  227  cd Week\ 04\ -\ Intro\ to\ Ruby/
+  228  ls
+  229  cd blog
+  230  ls
+  231  rails server
+  232  ls
+  233  cd ..
+  234  ls
+  235  cd ..
+  236  ls
+  237  cd Week\ 05\ -\ MVC\ and\ working\ with\ Rails/
+  238  ls
+  239  cd ..
+  240  ls
+  241  cd Week\ 07\ -\ Javascript/
+  242  ls
+  243  cd ..
+  244  ls
+  245  cd ..
+  246  cd ROR/
+  247  ls
+  248  cd mysite
+  249  rails server
+  250  ls
+  251  rails server
+  252  rails server
+  253  rails server
+  254  rails server
+  255  bower install animate.css --save
+  256  bower install animate.css
+  257  npm install -g bower
+  258  install -g bower
+  259  cd
+  260  echo $PATH
+  261  node
+  262  node -v
+  263  npm search
+  264  npm ls
+  265  npm install easyimage
+  266  install -g bower
+  267  npm install -g bower
+  268  brew install node
+  269  npm install -g bower
+  270  sudo npm install -g bower
+  271  bower@1.6.5 /usr/local/lib/node_modules/bower
+  272  bower init
+  273  npm install scrollmagic
+  274  bower init
+  275  bower install scrollmagic
+  276  gem install scrollmagicjs-rails
+  277  ls
+  278  cd Documents/
+  279  ls
+  280  cd ROR/
+  281  ls
+  282  cd mysite
+  283  ls
+  284  gem install scrollmagicjs-rails
+  285  bower install animate.css --save
+  286  bower init
+  287  bower init
+  288  bower install animate.css --save
+  289  bower install scrollmagic
+  290  list
+  291  gem list
+  292  git add .
+  293  git commit -m "installedd animate"
+  294  git push -u origin master
+  295  gem list
+  296  npm install scrollmagic
+  297  bower install scrollmagic
+  298   gem install scrollmagicjs-rails
+  299  git add .
+  300  git commit -m "parallax custom css"
+  301  git push -u master origin
+  302  git push -u origin master
+  303  gem list
+  304  bundle install
+  305  development:
+  306  adapter: postgresql
+  307  database: my_profile_development
+  308  pool: 5
+  309  timeout: 5000
+  310  test:
+  311  adapter: postgresql
+  312  database: my_profile_test
+  313  pool: 5
+  314  timeout: 5000
+  315  production:
+  316  adapter: postgresql
+  317  database: my_profile_production
+  318  pool: 5
+  319  timeout: 5000development:
+  320  adapter: postgresql
+  321  database: my_profile_development
+  322  pool: 5
+  323  timeout: 5000
+  324  test:
+  325  adapter: postgresql
+  326  database: my_profile_test
+  327  pool: 5
+  328  timeout: 5000
+  329  production:
+  330  adapter: postgresql
+  331  database: my_profile_production
+  332  pool: 5
+  333  timeout: 5
+  334  rake db:create
+  335  rake db:migrate
+  336  git add .
+  337  git commit -m "postgres fix"
+  338  git push -u origin master
+  339  sudo apt-get install postgresql postgresql-contrib libpq-dev
+  340  sudo apt-get install postgresql postgresql-contrib libpq-dev
+  341  sudo apt-get install postgresql postgresql-contrib libpq-dev
+  342  sudo apt-get install postgresql postgresql-contrib libpq-dev
+  343  apt-get install postgresql postgresql-contrib libpq-dev
+  344  ls
+  345  cd ..
+  346  ls
+  347  cd .
+  348  cd ..
+  349  ls
+  350  cd RefugeesOnRails/
+  351  ls
+  352  cd Week\ 04\ -\ Intro\ to\ Ruby/
+  353  ls
+  354  cd blog
+  355  ls
+  356  rails server
+  357  cd ..
+  358  cd..
+  359  cd .
+  360  cd ...
+  361  cd ..
+  362  cd ..
+  363  ls
+  364  cd ROR
+  365  ls 
+  366  postgres -v
+  367  postgres --version
+  368  ls
+  369  cd mysite/
+  370  bundle install
+  371  rake db:create
+  372  rake db:create
+  373  rake db:migrate
+  374  git add .
+  375  git commit -m "2nd postgres"
+  376  git push -u origin master
+  377  rails server
+  378  history
+  379  history |grep create
+  380  git add .
+  381  git commit -m "fixed"
+  382  git push -u origin master
+  383  cd ..
+  384  cd ..
+  385  cd ..
+  386  heroku login
+  387  ls
+  388  cd Documents/
+  389  ls
+  390  cd ROR/
+  391  ls
+  392  cd mysite
+  393  ls
+  394  heroku create
+  395  psql --version
+  396  cd ..
+  397  ls
+  398  cd ..
+  399  ls
+  400  cd ROR
+  401  ls
+  402  rails new myblog -d postgresql
+  403  rails generate scaffold post titile:string body:text
+  404  ls
+  405  cd myblog
+  406  rails generate scaffold post titile:string body:text
+  407  rails generate comment name:string body:text post:references
+  408  rails generate scaffold comment name:string body:text post:references
+  409  rails generate scaffold comment name:string body:text post:references
+  410  history
+  411  history 25
+  412  rake db:create
+  413  history > history_for_print-txt
+  414  rails generate scaffold comment name:string body:text post:references
+  415  rake db:migrate
+  416  rails s
+  417  ls
+  418  cd ..
+  419  ls
+  420  cd ..
+  421  ls
+  422  cd ..
+  423  ls
+  424  cd Documents/
+  425  ls
+  426  cd ROR/
+  427  ls
+  428  history >history-txt
+  429  bundle install
+  430  ls
+  431  cd myblog
+  432  ls
+  433  bundle install
+  434  bundle install
+  435  gem 'bootstrap-sass', '~> 3.3.6'
+  436  bundle install
+  437  bundle install
+  438  bundle install
+  439  bundle install
+  440  bundle install
+  441  rails s
+  442  ls
+  443  cd ..
+  444  ls
+  445  cd mysite
+  446  ls
+  447  rails server
+  448  ls
+  449  rails s
+  450  rails s
+  451  rails s
+  452  rails s
+  453  ls
+  454  cd Documents/
+  455  ls
+  456  cd ROR/
+  457  ls
+  458  cd mysite
+  459  ls
+  460  rails s
+  461  rails s
+  462  ls
+  463  cd Documents/
+  464  ls
+  465  cd ROR/
+  466  ls
+  467  cd mysite
+  468  ls
+  469  rails s
+  470  rails s
+  471  ls
+  472  cd ..
+  473  ls
+  474  cd myblog
+  475  rails s
+  476  rails s
+  477  rails server
+  478  ls
+  479  cd Documents/
+  480  ls
+  481  ls
+  482  cd ROR/
+  483  ls
+  484  cd myblog/
+  485  ls
+  486  rails s
+  487  rake routes
+  488  rails s
+  489  rails s
+  490  rails s
+  491  rake routes
+  492  ls
+  493  cd Documents/
+  494  ls
+  495  cd ROR/
+  496  ls
+  497  cd myblog
+  498  ls
+  499  rails s
+  500  history > history24aug.txt

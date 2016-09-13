@@ -1,0 +1,23 @@
+<div class="container ">
+
+
+
+
+    <p id="notice"><%= notice %></p>
+
+
+
+
+    <h1>Posts</h1>
+
+    <br>
+
+    <%= link_to 'New Post', new_post_path %>
+
+    <div class="bord1" >
+        <%= render partial: @posts %>
+    </div>
+
+
+
+</div>
